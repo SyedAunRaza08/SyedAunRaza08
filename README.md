@@ -19,17 +19,11 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aun-raza-8b2442251/">
+  <a href="https://www.linkedin.com/in/aun-raza-328086140/">
     <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="mailto:syedaunrazarizvi3@gmail.com">
+  <a href="mailto:aunraza166@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail"/>
-  </a>
-  <a href="https://huggingface.co/aun09">
-    <img src="https://img.shields.io/badge/HuggingFace-111111?style=for-the-badge&logo=huggingface"/>
-  </a>
-  <a href="https://medium.com/@syedaunrazarizvi3">
-    <img src="https://img.shields.io/badge/Medium-111111?style=for-the-badge&logo=medium"/>
   </a>
 </p>
 
