@@ -1,7 +1,7 @@
 <!-- TOP WAVE -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,35:1e293b,70:334155,100:475569&height=230&section=header&text=Aun%20Raza&fontSize=42&fontColor=ffffff&desc=Flutter%20Developer%20%7C%20AI%20Engineer%20%7C%20Generative %20AI&descSize=18&descAlignY=64&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,35:1e293b,70:334155,100:475569&height=230&section=header&text=Aun%20Raza&fontSize=42&fontColor=ffffff&desc=Flutter%20Developer%20%7C%20AI%20Engineer%20%7C%20Generative%20AI&descSize=18&descAlignY=64&animation=fadeIn" />
 </p>
 
 <!-- ANIMATED INTRO -->
