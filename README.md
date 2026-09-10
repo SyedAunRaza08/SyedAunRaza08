@@ -11,10 +11,6 @@
 <h1 align="center"><b>A U N &nbsp; R A Z A</b></h1>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1000" height="400" />
-</p>
-
-<p align="center">
   <b>Software Engineer • Flutter Developer • AI & Generative AI Engineer</b>
 </p>
 
@@ -112,25 +108,6 @@ My current interests include:
 <img src="https://img.shields.io/badge/AI_Agents-0f2027?style=for-the-badge"/>
 </p>
 
-### 🔎 Vector Search & AI Data
-
-<p>
-<img src="https://img.shields.io/badge/FAISS-0f2027?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ChromaDB-0f2027?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Embeddings-0f2027?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Vector_Search-0f2027?style=for-the-badge"/>
-</p>
-
-### ⚙️ Backend & APIs
-
-<p>
-<img src="https://img.shields.io/badge/REST_APIs-0f2027?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Flask-0f2027?style=for-the-badge&logo=flask"/>
-<img src="https://img.shields.io/badge/PostgreSQL-0f2027?style=for-the-badge&logo=postgresql"/>
-<img src="https://img.shields.io/badge/SQLite-0f2027?style=for-the-badge&logo=sqlite"/>
-<img src="https://img.shields.io/badge/Hive-0f2027?style=for-the-badge"/>
-</p>
-
 ### ⚡ Real-Time Systems
 
 <p>
@@ -206,83 +183,6 @@ Working on AI-focused projects involving:
 * Multimodal AI
 * Document intelligence
 * AI-powered APIs
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00F7FF&height=2"/>
-</p>
-
-## 🎓 Certifications & Achievements
-
-<table align="center">
-<tr>
-<td align="center">
-<a href="https://www.credly.com/badges/296b5235-5927-45c2-9041-0054cd1b90d0/linked_in_profile">
-<img src="Certificates/ai-skills-fest-2026%20(2).png" width="230"/>
-</a>
-</td>
-
-<td align="center">
-<a href="https://www.coursera.org/account/accomplishments/specialization/JLWO1EAX2W37">
-<img src="Certificates/microsoft-ai-and-ml-engineering-professional-certif.png" width="230"/>
-</a>
-</td>
-
-<td align="center">
-<a href="https://www.kaggle.com/certification/badges/aurrizvi/105">
-<img src="Certificates/5-Day%20AI%20Agents%20Intensive%20Course%20with%20Google.png" width="230"/>
-</a>
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<a href="Certificates/NASA%20Space%20Apps%20Challenge2025.pdf">
-<img src="Certificates/NASA%20Space%20Apps%20Challenge2025_page-0001.jpg" width="230"/>
-</a>
-</td>
-
-<td align="center">
-<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=84358782DA14E9D1912F5E3200CDD8974B9BA9AF6A9152CCFB5B810CD4D809A0">
-<img src="Certificates/OCI25GAIOCP-removebg-preview.png" width="230"/>
-</a>
-</td>
-
-<td align="center">
-<a href="https://www.coursera.org/account/accomplishments/specialization/01HMIPA9IHX7">
-<img src="Certificates/deep-learning-specialization-v-2.png" width="230"/>
-</a>
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<a href="https://www.kaggle.com/certification/badges/aurrizvi/96">
-<img src="Certificates/Completed%205-Day%20Gen%20AI%20Intensive.png" width="230"/>
-</a>
-</td>
-
-<td></td>
-<td></td>
-</tr>
-</table>
-
-<p align="center">
-<i>✨ Click any certificate to verify</i>
-</p>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00F7FF&height=2"/>
-</p>
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aunraza19&theme=github_dark"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aunraza19&theme=dark&hide_border=true"/>
-</p>
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00F7FF&height=2"/>
