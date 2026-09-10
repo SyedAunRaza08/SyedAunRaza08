@@ -1,7 +1,7 @@
 <!-- TOP WAVE -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,35:1e293b,70:334155,100:475569&height=230&section=header&text=Aun%20Raza&fontSize=42&fontColor=ffffff&desc=Flutter%20Developer%20%7C%20AI%20Engineer%20%7C%20&descSize=18&descAlignY=64&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,35:1e293b,70:334155,100:475569&height=230&section=header&text=Aun%20Raza&fontSize=42&fontColor=ffffff&desc=Flutter%20Developer%20%7C%20AI%20Engineer%20%7C%20LLM&descSize=18&descAlignY=64&animation=fadeIn" />
 </p>
 
 
@@ -9,9 +9,9 @@
 
 <!-- ANIMATED INTRO -->
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=1800&pause=700&color=00F7FF&center=true&vCenter=true&width=850&lines=Hey%2C+I'm+Aun+Raza;Software+Engineer+%7C+Flutter+%7C+AI;Flutter+%7C+Angular+%7C+Generative+AI;AI+%7C+RAG+%7C+AI+Agents;Building+Scalable+Production-Ready+Systems" />
-</div>
+</div> -->
 
 <h1 align="center"><b>A U N &nbsp; R A Z A</b></h1>
 
