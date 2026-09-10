@@ -10,6 +10,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=1800&pause=700&color=00F7FF&center=true&vCenter=true&width=850&lines=Hey%2C+I'm+Aun+Raza;Software+Engineer+%7C+Flutter+%7C+AI;Flutter+%7C+Angular+%7C+Generative+AI;AI+%7C+RAG+%7C+AI+Agents;Building+Scalable+Production-Ready+Systems" />
 </div> -->
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=2600&pause=900&color=94A3B8&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Aun+Raza;Software+Engineer+%7C+Flutter+%7C+AI;Flutter+%7C+Angular+%7C+Generative+AI;AI+%7C+RAG+%7C+AI+Agents;Building+Scalable+Production-Ready+Systems" />
+</p>
+
 <h1 align="center"><b>A U N &nbsp; R A Z A</b></h1>
 
 <p align="center">
