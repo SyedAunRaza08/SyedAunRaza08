@@ -1,5 +1,10 @@
 <!-- TOP WAVE -->
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,35:1e293b,70:334155,100:475569&height=230&section=header&text=Mohamed%20Yasser&fontSize=42&fontColor=ffffff&desc=Solution%20Architect%20%7C%20AI%20Infrastructure%20%7C%20Edge%20Systems&descSize=18&descAlignY=64&animation=fadeIn" />
+</p>
+
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=header"/>
 
 <!-- ANIMATED INTRO -->
